@@ -20,6 +20,7 @@ namespace WebProject.Controllers
 
         public AccountController()
         {
+            int a = 5;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
